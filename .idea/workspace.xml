@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0725900-6948-499d-a64b-337a93e73d0c" name="Changes" comment="New solutions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problem58/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/problem58/SolutionTest.java" afterDir="false" />
+    <list default="true" id="b0725900-6948-499d-a64b-337a93e73d0c" name="Changes" comment="Solution of 58 problems">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problem66/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/problem66/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/problem645/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/problem645/SolutionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,35 +51,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/Павел/IdeaProjects/LeetCode/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Павел/IdeaProjects/LeetCode/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.problem66" />
       <recent name="org.example.problem58" />
       <recent name="org.example.problem35" />
       <recent name="org.example.problem28" />
       <recent name="org.example.problem27" />
-      <recent name="org.example.problem26" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.SolutionTest (1)">
+  <component name="RunManager" selected="Gradle.SolutionTest.plusOne1">
     <configuration name="SolutionTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -103,7 +104,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest (2)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -116,7 +117,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem35.SolutionTest&quot;" />
+            <option value="&quot;org.example.problem66.SolutionTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -151,7 +152,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest.searchInsert2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest.plusOne" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -164,7 +165,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem35.SolutionTest.searchInsert2&quot;" />
+            <option value="&quot;org.example.problem66.SolutionTest.plusOne&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -175,7 +176,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest.searchInsert4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest.plusOne1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -188,7 +189,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem35.SolutionTest.searchInsert4&quot;" />
+            <option value="&quot;org.example.problem66.SolutionTest.plusOne1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -201,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SolutionTest.plusOne1" />
+        <item itemvalue="Gradle.SolutionTest (2)" />
+        <item itemvalue="Gradle.SolutionTest.plusOne" />
         <item itemvalue="Gradle.SolutionTest (1)" />
         <item itemvalue="Gradle.SolutionTest.lengthOfLastWord" />
-        <item itemvalue="Gradle.SolutionTest.searchInsert4" />
-        <item itemvalue="Gradle.SolutionTest" />
-        <item itemvalue="Gradle.SolutionTest.searchInsert2" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +218,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705924815669</updated>
-      <workItem from="1705924816684" duration="18959000" />
+      <workItem from="1705924816684" duration="19263000" />
+      <workItem from="1705957083173" duration="1208000" />
     </task>
     <task id="LOCAL-00001" summary="New solutions">
       <created>1705950042325</created>
@@ -226,7 +228,28 @@
       <option name="project" value="LOCAL" />
       <updated>1705950042325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Solution of 56 problems">
+      <created>1705951289877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705951289877</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1705951373573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705951373573</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Solution of 58 problems">
+      <created>1705951436438</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705951436438</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +257,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="New solutions" />
+    <MESSAGE value="Solution of 56 problems" />
+    <MESSAGE value="Commit" />
+    <MESSAGE value="Solution of 58 problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution of 58 problems" />
   </component>
 </project>

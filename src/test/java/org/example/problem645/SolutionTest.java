@@ -1,6 +1,6 @@
 package org.example.problem645;
 
-import org.example.problem645.Solution;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
