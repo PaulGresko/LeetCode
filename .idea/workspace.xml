@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0725900-6948-499d-a64b-337a93e73d0c" name="Changes" comment="Problem solution №2996">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problem349/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/problem349/SolutionTest.java" afterDir="false" />
+    <list default="true" id="b0725900-6948-499d-a64b-337a93e73d0c" name="Changes" comment="Problem solution №268">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problem201/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/problem201/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,15 +71,15 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="org.example.problem349" />
-      <recent name="org.example.problem2232" />
-      <recent name="org.example.problem1291" />
-      <recent name="org.example.problem2488" />
-      <recent name="org.example.problem1343" />
+      <recent name="org.example.problem201" />
+      <recent name="org.example.problem268" />
+      <recent name="org.example.problem231" />
+      <recent name="org.example.problem4" />
+      <recent name="org.example.problem125" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.SolutionTest">
-    <configuration name="SolutionTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.SolutionTest.rangeBitwiseAnd2">
+    <configuration name="SolutionTest (2)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -92,7 +92,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem2232.SolutionTest&quot;" />
+            <option value="&quot;org.example.problem268.SolutionTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -103,7 +103,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest.minimizeResult1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest.isPowerOfTwo3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -116,7 +116,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem2232.SolutionTest.minimizeResult1&quot;" />
+            <option value="&quot;org.example.problem231.SolutionTest.isPowerOfTwo3&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -127,7 +127,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest.minimizeResult4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest.rangeBitwiseAnd1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -140,7 +140,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem2232.SolutionTest.minimizeResult4&quot;" />
+            <option value="&quot;org.example.problem201.SolutionTest.rangeBitwiseAnd1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -151,7 +151,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest.minimizeResult5" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest.rangeBitwiseAnd2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -164,7 +164,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem2232.SolutionTest.minimizeResult5&quot;" />
+            <option value="&quot;org.example.problem201.SolutionTest.rangeBitwiseAnd2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -175,7 +175,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest.minimizeResult6" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest.rangeBitwiseAnd3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -188,7 +188,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem2232.SolutionTest.minimizeResult6&quot;" />
+            <option value="&quot;org.example.problem201.SolutionTest.rangeBitwiseAnd3&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -201,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.SolutionTest" />
-        <item itemvalue="Gradle.SolutionTest.minimizeResult6" />
-        <item itemvalue="Gradle.SolutionTest.minimizeResult1" />
-        <item itemvalue="Gradle.SolutionTest.minimizeResult5" />
-        <item itemvalue="Gradle.SolutionTest.minimizeResult4" />
+        <item itemvalue="Gradle.SolutionTest.rangeBitwiseAnd2" />
+        <item itemvalue="Gradle.SolutionTest.rangeBitwiseAnd3" />
+        <item itemvalue="Gradle.SolutionTest.rangeBitwiseAnd1" />
+        <item itemvalue="Gradle.SolutionTest (2)" />
+        <item itemvalue="Gradle.SolutionTest.isPowerOfTwo3" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +232,17 @@
       <workItem from="1706946450809" duration="9836000" />
       <workItem from="1706995210787" duration="334000" />
       <workItem from="1707035971748" duration="837000" />
+      <workItem from="1707061353251" duration="1673000" />
+      <workItem from="1707233017273" duration="627000" />
+      <workItem from="1707292243985" duration="5963000" />
+      <workItem from="1707393586855" duration="3191000" />
+      <workItem from="1707643584103" duration="1931000" />
+      <workItem from="1707736439245" duration="1705000" />
+      <workItem from="1707829087165" duration="4023000" />
+      <workItem from="1707853363965" duration="592000" />
+      <workItem from="1708359781865" duration="1175000" />
+      <workItem from="1708406127810" duration="917000" />
+      <workItem from="1708515224389" duration="2673000" />
     </task>
     <task id="LOCAL-00001" summary="New solutions">
       <created>1705950042325</created>
@@ -401,21 +412,76 @@
       <option name="project" value="LOCAL" />
       <updated>1706973458246</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Problem solution №349">
+      <created>1707061827824</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1707061827824</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Problem solution №387">
+      <created>1707293267171</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1707293267171</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Problem solution №451">
+      <created>1707396861072</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1707396861072</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Problem solution №4">
+      <created>1708406171337</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1708406171337</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Problem solution №125">
+      <created>1708406183219</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1708406183219</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Problem solution №169">
+      <created>1708406194555</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1708406194555</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Problem solution №231">
+      <created>1708406204061</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1708406204061</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Problem solution №2108">
+      <created>1708406212676</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1708406212676</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Problem solution №268">
+      <created>1708515476897</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1708515476897</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="New solutions" />
-    <MESSAGE value="Solution of 56 problems" />
-    <MESSAGE value="Commit" />
-    <MESSAGE value="Solution of 58 problems" />
-    <MESSAGE value="Solution problems" />
-    <MESSAGE value="Problem solution #232" />
-    <MESSAGE value="Problem solution №516" />
-    <MESSAGE value="Problem solution №583" />
     <MESSAGE value="Problem solution №1143" />
     <MESSAGE value="Problem solution №1689" />
     <MESSAGE value="Problem solution №2207" />
@@ -432,7 +498,16 @@
     <MESSAGE value="Problem solution №2348" />
     <MESSAGE value="Problem solution №2488" />
     <MESSAGE value="Problem solution №2996" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem solution №2996" />
+    <MESSAGE value="Problem solution №349" />
+    <MESSAGE value="Problem solution №387" />
+    <MESSAGE value="Problem solution №451" />
+    <MESSAGE value="Problem solution №4" />
+    <MESSAGE value="Problem solution №125" />
+    <MESSAGE value="Problem solution №169" />
+    <MESSAGE value="Problem solution №231" />
+    <MESSAGE value="Problem solution №2108" />
+    <MESSAGE value="Problem solution №268" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem solution №268" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
