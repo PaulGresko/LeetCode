@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0725900-6948-499d-a64b-337a93e73d0c" name="Changes" comment="Problem solution №201">
+    <list default="true" id="b0725900-6948-499d-a64b-337a93e73d0c" name="Changes" comment="Problem solution №50">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problem1768/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problem372/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/problem1768/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/problem372/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +43,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f61d955c-1e03-4390-abb7-e566f8c875d0" />
+        <option name="url" value="https://github.com/PaulGresko/LeetCode.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2bJEWt2QHu3NnqpgbcYvnSSsNkJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -69,15 +86,15 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.problem1768" />
+      <recent name="org.example.problem372" />
+      <recent name="org.example.problem50" />
+      <recent name="org.example.problem997" />
       <recent name="org.example.problem201" />
-      <recent name="org.example.problem268" />
-      <recent name="org.example.problem231" />
-      <recent name="org.example.problem4" />
-      <recent name="org.example.problem125" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.SolutionTest.rangeBitwiseAnd2">
-    <configuration name="SolutionTest (2)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.SolutionTest.mergeAlternately2">
+    <configuration name="SolutionTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -90,7 +107,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem268.SolutionTest&quot;" />
+            <option value="&quot;org.example.problem1768.SolutionTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -101,7 +118,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest.isPowerOfTwo3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest.mergeAlternately1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -114,7 +131,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem231.SolutionTest.isPowerOfTwo3&quot;" />
+            <option value="&quot;org.example.problem1768.SolutionTest.mergeAlternately1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -125,7 +142,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest.rangeBitwiseAnd1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest.mergeAlternately2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -138,7 +155,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem201.SolutionTest.rangeBitwiseAnd1&quot;" />
+            <option value="&quot;org.example.problem1768.SolutionTest.mergeAlternately2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -149,7 +166,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest.rangeBitwiseAnd2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest.superPow2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -162,7 +179,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem201.SolutionTest.rangeBitwiseAnd2&quot;" />
+            <option value="&quot;org.example.problem372.SolutionTest.superPow2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -173,7 +190,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SolutionTest.rangeBitwiseAnd3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SolutionTest.superPow3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -186,7 +203,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.problem201.SolutionTest.rangeBitwiseAnd3&quot;" />
+            <option value="&quot;org.example.problem372.SolutionTest.superPow3&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -199,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.SolutionTest.rangeBitwiseAnd2" />
-        <item itemvalue="Gradle.SolutionTest.rangeBitwiseAnd3" />
-        <item itemvalue="Gradle.SolutionTest.rangeBitwiseAnd1" />
-        <item itemvalue="Gradle.SolutionTest (2)" />
-        <item itemvalue="Gradle.SolutionTest.isPowerOfTwo3" />
+        <item itemvalue="Gradle.SolutionTest.mergeAlternately2" />
+        <item itemvalue="Gradle.SolutionTest" />
+        <item itemvalue="Gradle.SolutionTest.mergeAlternately1" />
+        <item itemvalue="Gradle.SolutionTest.superPow3" />
+        <item itemvalue="Gradle.SolutionTest.superPow2" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +258,9 @@
       <workItem from="1708359781865" duration="1175000" />
       <workItem from="1708406127810" duration="917000" />
       <workItem from="1708515224389" duration="3286000" />
+      <workItem from="1708591945686" duration="4789000" />
+      <workItem from="1708861450585" duration="2030000" />
+      <workItem from="1710512868297" duration="1883000" />
     </task>
     <task id="LOCAL-00001" summary="New solutions">
       <created>1705950042325</created>
@@ -480,15 +500,27 @@
       <option name="project" value="LOCAL" />
       <updated>1708519027314</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Problem solution №997">
+      <created>1708609984008</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1708609984008</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Problem solution №50">
+      <created>1710515366686</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1710515366686</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem solution №1689" />
-    <MESSAGE value="Problem solution №2207" />
     <MESSAGE value="Problem solution №67" />
     <MESSAGE value="Problem solution №2" />
     <MESSAGE value="Problem solution №3" />
@@ -512,7 +544,9 @@
     <MESSAGE value="Problem solution №2108" />
     <MESSAGE value="Problem solution №268" />
     <MESSAGE value="Problem solution №201" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem solution №201" />
+    <MESSAGE value="Problem solution №997" />
+    <MESSAGE value="Problem solution №50" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem solution №50" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -526,6 +560,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/problem1343/Solution.java</url>
           <line>15</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/problem372/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
